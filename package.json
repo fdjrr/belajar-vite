@@ -1,0 +1,20 @@
+{
+    "name": "belajar-vite",
+    "version": "1.0.0",
+    "description": "Belajar Vite bersama Programmer Zaman Now",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Fadjrir Herlambang",
+    "license": "ISC",
+    "type": "module",
+    "devDependencies": {
+        "sass": "^1.64.2",
+        "typescript": "^5.1.6",
+        "vite": "^4.4.8"
+    },
+    "dependencies": {
+        "uuid": "^9.0.0"
+    }
+}
